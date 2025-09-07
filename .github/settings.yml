@@ -1,7 +1,7 @@
 repository:
   name: clipflow-brand-kit
-  description: 🎨 Brand Kit & Visual Identity for the ClipFlow AI Video Automation Platform
-  homepage: https://github.com/raufA1/clipflow
+  description: "🎨 Brand Kit & Visual Identity for the ClipFlow AI Video Automation Platform"
+  homepage: "https://github.com/raufA1/clipflow"
   private: false
   has_issues: true
   has_wiki: false
@@ -13,6 +13,16 @@ repository:
   allow_rebase_merge: true
   delete_branch_on_merge: true
 
+topics:
+  - clipflow
+  - brand-kit
+  - design-system
+  - logo
+  - banner
+  - favicon
+  - design
+  - ai-tools
+
 labels:
   - name: design
     color: B60205
@@ -20,10 +30,3 @@ labels:
   - name: documentation
     color: 0366D6
     description: "Docs, guides, READMEs"
-
-topics:
-  - clipflow
-  - brand-kit
-  - design-system
-  - ai-tools
-  - automation
