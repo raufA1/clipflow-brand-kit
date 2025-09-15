@@ -1,0 +1,18 @@
+name: Rauf Default
+colors:
+  primary: "#22c55e"
+  accent:  "#38bdf8"
+  text_light: "#E5E7EB"
+  text_dark:  "#111827"
+captions:
+  font_family: Inter
+  color: "#E5E7EB"
+  stroke: "#111827"
+  shadow: true
+watermark:
+  file: assets/watermark/wm_96.png
+  position: bottom-right
+  margin: 24
+  opacity: 0.9
+thumbnails:
+  template: assets/thumbnails/base.png
